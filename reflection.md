@@ -23,3 +23,8 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+This project brought together a lot of the topics we learned about and used in IST356. One of the most useful parts of the project was learning how to design a data pipeline that doesn't break when filters return no data, which is something that seemed small but was critical for a smooth  experience. I also became more comfortable writing modular code and unit tests, which helped keep things organized.
+
+If I had more time, I would try to add pagination to pull more data from the API and see the data displayed over time as well.  I’d also liked to have experimented with more advanced map visualizations like heatmaps by ZIP code or clustering by neighborhood.
+
+Overall, I feel more confident building end-to-end data apps and would love to explore more civic data projects like this in the future.
